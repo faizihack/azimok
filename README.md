@@ -56,7 +56,7 @@ $ git clone https://github.com/Azim-Vau/fcpromax.git
 $ cd fcpromax
 $ python fcpromax.py
 ```
-
+Key fuckmrzuck
 #### [~] SINGLE COMMAND
 
 ```python
